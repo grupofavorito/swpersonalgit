@@ -1,0 +1,47 @@
+body{
+	background-color: #00ffff;
+	margin: 0;
+	padding: 0;
+}
+header body h1 {
+	background-color: #d40a0a;
+	text-align: center;
+	color: #00ffff;
+	font-family: 'Elephant'
+}
+h1{
+	text-align: center;
+	color: #ff0000;
+	font-family:'Arial Black' ;
+}
+
+.teoria p{
+	font-size: 25px;
+	color: #black;
+	text-align: center;
+	padding: 20px;
+}
+
+.img{
+	position: relative;
+	display: inline-flex;
+	padding-top: 20px;
+
+}
+
+.teoria {
+	text-align: center;
+	color: #black;
+	padding: 20px;
+}
+.pagina {
+	background-color: #336666;
+	text-align: center;
+	color: #ccc;
+	font-size: 20px;
+	font-family: 'Gill Sans Nova Ultra Bold'; 
+	margin: 15px;
+	max-width: 100%;
+}
+
+
